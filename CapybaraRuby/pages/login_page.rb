@@ -12,8 +12,3 @@ class LoginPage < CommonPage
   element :txt_password, '#user_password'
   element :btn_login, '.btn.btn-success[value="Log In"]'
 end
-
-# new class // bong.nguyen
-class Log < CommonPage
-  puts 'hhihihi'
-end
