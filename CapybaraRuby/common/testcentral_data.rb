@@ -16,4 +16,5 @@ class TCData
   TC3_CODE_TYPE = 'FRV3'
   TC3_MSG_CORRECT = 'PINs are uploaded successfully.'
   TC3_MSG_INCORRECT = 'Error while uploading Code file. Please try again!'
+  TC4_MSG_INCORRECT = 'Ba Ton Github'
 end
