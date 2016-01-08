@@ -7,7 +7,6 @@ describe 'TestCentral Functions' do
 
   context 'Customer Lookup Checking' do
     it 'should login to Test Central successfully' do
-      puts 'hihihi'
       home_page.navigate_testcentral
       home_page.navigate_menu_bar('Users>sign in')
       login_page.login(TCConfig::TC_EMAIL, TCConfig::TC_PASSWORD)

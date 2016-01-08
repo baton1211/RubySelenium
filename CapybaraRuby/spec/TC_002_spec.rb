@@ -7,7 +7,6 @@ describe 'user menu sub-links link to right page' do
 
   context 'User menu sub-links link to right page' do
     it 'should login successfully' do
-      puts "dat change 5"
       home_page.navigate_testcentral
       home_page.navigate_menu_bar('Users>sign in')
       login_page.login(TCConfig::TC_EMAIL, TCConfig::TC_PASSWORD)
