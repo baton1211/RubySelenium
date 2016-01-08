@@ -11,4 +11,5 @@ class HomePage < CommonPage
 
   element :lnk_signin, '.dropdown-menu>li>a[href*="signin"]'
   element :lnk_users, :xpath, "//a[contains(text(),'Users')]"
+  element : aaaaaaaaaa, '.dropdown-menu>li>a[href*="signin"]'
 end
