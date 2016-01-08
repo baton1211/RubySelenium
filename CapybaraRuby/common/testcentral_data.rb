@@ -9,7 +9,7 @@ class TCData
                        'help' => 'Test Central | Help',
                        'sign out' => 'Test Central | Login' }
 
-  TC3_ENV = 'QA'
+  TC3_ENV = 'PROD'
   TC3_PLATFORM = 'FRV3 - French Canada Virtual codes for French App Center'
   TC3_FILEPATH_INCORRECT = '../data/redeemfile.pdf'
   TC3_FILEPATH_CORRECT = '../data/frv3.csv'
