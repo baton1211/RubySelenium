@@ -13,11 +13,11 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__ex_spec___CapybaraRuby.coverage" NAME="Run spec 'ex_spec': CapybaraRuby Coverage Results" MODIFIED="1452044978336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="CapybaraRuby" />
-    <SUITE FILE_PATH="coverage/CapybaraRuby@TestCentral_Login_Customer_Lookup_Checking_should_login__CapybaraRuby.coverage" NAME="TestCentral Login Customer Lookup Checking should login: CapybaraRuby Coverage Results" MODIFIED="1451449382241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
-    <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__try_spec___CapybaraRuby.coverage" NAME="Run spec 'try_spec': CapybaraRuby Coverage Results" MODIFIED="1451553560728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
-    <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__login_testcentral_spec___CapybaraRuby.coverage" NAME="Run spec 'login_testcentral_spec': CapybaraRuby Coverage Results" MODIFIED="1451533146130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
-    <SUITE FILE_PATH="coverage/CapybaraRuby@TC_001__1_.coverage" NAME="TC_001 (1) Coverage Results" MODIFIED="1451991346263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@testcentral_login__1_.coverage" NAME="testcentral_login (1) Coverage Results" MODIFIED="1451468206319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" MODULE_NAME="CapybaraRuby" />
+    <SUITE FILE_PATH="coverage/CapybaraRuby@TC_001__1_.coverage" NAME="TC_001 (1) Coverage Results" MODIFIED="1451991346263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="CapybaraRuby" />
+    <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__login_testcentral_spec___CapybaraRuby.coverage" NAME="Run spec 'login_testcentral_spec': CapybaraRuby Coverage Results" MODIFIED="1451533146130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
+    <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__try_spec___CapybaraRuby.coverage" NAME="Run spec 'try_spec': CapybaraRuby Coverage Results" MODIFIED="1451553560728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
+    <SUITE FILE_PATH="coverage/CapybaraRuby@TestCentral_Login_Customer_Lookup_Checking_should_login__CapybaraRuby.coverage" NAME="TestCentral Login Customer Lookup Checking should login: CapybaraRuby Coverage Results" MODIFIED="1451449382241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@testcentral_login.coverage" NAME="testcentral_login Coverage Results" MODIFIED="1451466851543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__tc3_spec___CapybaraRuby.coverage" NAME="Run spec 'tc3_spec': CapybaraRuby Coverage Results" MODIFIED="1451990692329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__TC_002_spec___CapybaraRuby.coverage" NAME="Run spec 'TC_002_spec': CapybaraRuby Coverage Results" MODIFIED="1452147884797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="CapybaraRuby" />
@@ -39,10 +39,10 @@
     <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__TC_003_spec___CapybaraRuby.coverage" NAME="Run spec 'TC_003_spec': CapybaraRuby Coverage Results" MODIFIED="1452147861587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@TestCentral_Functions_Customer_Lookup_Checking_should_login__CapybaraRuby.coverage" NAME="TestCentral Functions Customer Lookup Checking should login: CapybaraRuby Coverage Results" MODIFIED="1451524658712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@sp.coverage" NAME="sp Coverage Results" MODIFIED="1451536279012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
-    <SUITE FILE_PATH="coverage/CapybaraRuby@test.coverage" NAME="test Coverage Results" MODIFIED="1451383971292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@My_behaviour__CapybaraRuby.coverage" NAME="My behaviour: CapybaraRuby Coverage Results" MODIFIED="1451293891952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CapybaraRuby" />
-    <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__tc1_spec___CapybaraRuby.coverage" NAME="Run spec 'tc1_spec': CapybaraRuby Coverage Results" MODIFIED="1451991303310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CapybaraRuby" />
+    <SUITE FILE_PATH="coverage/CapybaraRuby@test.coverage" NAME="test Coverage Results" MODIFIED="1451383971292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@TestCentral_Functions_Customer_Lookup_Checking__CapybaraRuby.coverage" NAME="TestCentral Functions Customer Lookup Checking: CapybaraRuby Coverage Results" MODIFIED="1451469749149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rspec" MODULE_NAME="CapybaraRuby" />
+    <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__tc1_spec___CapybaraRuby.coverage" NAME="Run spec 'tc1_spec': CapybaraRuby Coverage Results" MODIFIED="1451991303310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CapybaraRuby" />
     <SUITE FILE_PATH="coverage/CapybaraRuby@Run_spec__tc2_spec___CapybaraRuby.coverage" NAME="Run spec 'tc2_spec': CapybaraRuby Coverage Results" MODIFIED="1451891170536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="CapybaraRuby" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -70,7 +70,7 @@
       <file leaf-file-name="TC_002_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/TC_002_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+            <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="476">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
@@ -80,8 +80,8 @@
       <file leaf-file-name="login_page.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/login_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46608946" vertical-offset="0" max-vertical-offset="693">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.31798562" vertical-offset="0" max-vertical-offset="695">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -350,7 +350,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec/TC_001.rb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
@@ -559,14 +559,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1788269" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18097281" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -606,6 +606,38 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/uploadpin_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/TC_002_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="476">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="425">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/TC_003_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/uploadpin_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="952">
@@ -691,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
           <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,8 +788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/login_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46608946" vertical-offset="0" max-vertical-offset="693">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.31798562" vertical-offset="0" max-vertical-offset="695">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding />
         </state>
       </provider>
