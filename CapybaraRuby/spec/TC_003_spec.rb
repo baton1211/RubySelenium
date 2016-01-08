@@ -10,6 +10,7 @@ describe 'TestCentral Functions' do
   context 'Login Test Central' do
     it 'should login successfully' do
       puts 'dat'
+      puts 'aaaaaaaaaaaaaaaa'
       home_page.navigate_testcentral
       home_page.navigate_menu_bar('Users>sign in')
       login_page.login(TCConfig::TC_EMAIL, TCConfig::TC_PASSWORD)
