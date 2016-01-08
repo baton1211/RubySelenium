@@ -11,4 +11,6 @@ class LoginPage < CommonPage
   element :txt_email, '#user_email'
   element :txt_password, '#user_password'
   element :btn_login, '.btn.btn-success[value="Log In"]'
+  # bong add
+  puts 'hello world'
 end
